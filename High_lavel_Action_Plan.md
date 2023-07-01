@@ -15,26 +15,31 @@ After training, the model can be fine-tuned on a smaller specific dataset, like 
 ## 5. Evaluation and Improvement
 The model's performance is evaluated using metrics like Perplexity, BLEU score, etc. If the performance is not satisfactory, the model is improved by tuning its hyperparameters or increasing the training data, and the process is repeated.
 
-## 6. Expanding the Data Pool
-As the process evolves, there may be a need to add more data to improve the model's understanding and generation of text. This could be through new forms of data like speech-to-text transcriptions, user-generated content, or other forms of colloquial and formal Hindi texts.
-
-## 7. Scraping the Internet for Data
-The internet can be a valuable resource for gathering data. Websites, blogs, news articles, and social media posts can provide a variety of Hindi language content. Web scraping, however, must be done responsibly, respecting copyright laws and website terms of service.
-
 
 I am working on Two things
 
 # A) Data Gathering
 
-## 1- Hindi books(With english translations if available)
+## 1- Hindi Books (With English Translations if Available)
+Gathering data from Hindi books is an excellent way to understand the formal and colloquial usage of language. If these books also have English translations available, it can be beneficial in building a translation model.
 
-## 2- Hindi Songs(With english translations if available)
+## 2- Hindi Songs (With English Translations if Available)
+Lyrics from Hindi songs can provide insight into the colloquial usage of the language, idiomatic expressions, and cultural references. Songs with English translations can assist in understanding context and connotation in the translation process.
 
-## 3- Movies subtile in hindi(With english translations if available)
+## 3- Movies Subtitles in Hindi (With English Translations if Available)
+Subtitles from Hindi movies are a rich source of conversational Hindi. They can help the model understand dialogue-style text and informal language usage. If English translations of these subtitles are available, they can be used for a translation model.
 
-## 4- Hindi Songs(With english translations if available)
+## 4- Hindi Songs (With English Translations if Available)
+(Note: This point seems to be a repetition of point 2)
 
-## 5- Hindi Poyms(With english translations if available)
+## 5- Hindi Poems (With English Translations if Available)
+Hindi poems can provide insight into the more artistic and traditional use of the language. They can help the model learn complex sentence structures and rich vocabulary. Poems with English translations can help in understanding nuanced language usage.
+
+## 6. Expanding the Data Pool
+As the process evolves, there may be a need to add more data to improve the model's understanding and generation of text. This could be through new forms of data like speech-to-text transcriptions, user-generated content, or other forms of colloquial and formal Hindi texts.
+
+## 7. Scraping the Internet for Data
+The internet can be a valuable resource for gathering data. Websites, blogs, news articles, and social media posts can provide a variety of Hindi language content. Web scraping, however, must be done responsibly, respecting copyright laws and website terms of service.
 
 
 # B) User interface, similar to ChatGPT, provides the user with a platform to write prompts. 
