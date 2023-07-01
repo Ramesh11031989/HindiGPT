@@ -15,9 +15,11 @@ After training, the model can be fine-tuned on a smaller specific dataset, like 
 ## 5. Evaluation and Improvement
 The model's performance is evaluated using metrics like Perplexity, BLEU score, etc. If the performance is not satisfactory, the model is improved by tuning its hyperparameters or increasing the training data, and the process is repeated.
 
-## 6- etc(add more data)
+## 6. Expanding the Data Pool
+As the process evolves, there may be a need to add more data to improve the model's understanding and generation of text. This could be through new forms of data like speech-to-text transcriptions, user-generated content, or other forms of colloquial and formal Hindi texts.
 
-## 7. Scrap the internet for data
+## 7. Scraping the Internet for Data
+The internet can be a valuable resource for gathering data. Websites, blogs, news articles, and social media posts can provide a variety of Hindi language content. Web scraping, however, must be done responsibly, respecting copyright laws and website terms of service.
 
 
 I am working on Two things
