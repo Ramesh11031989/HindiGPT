@@ -28,4 +28,10 @@ The developers of this project are not responsible for any misuse of this model,
 
 Thank you for your interest and support!
 
-# Please Read our High lavel Action Plan Document [Wiki](https://github.com/Ramesh11031989/HindiGPT/wiki "HindiGPT Wiki") to know our in-detail status.
+# Important Links
+[Wiki](https://github.com/Ramesh11031989/HindiGPT/wiki "HindiGPT Wiki")
+
+## Contributing
+
+Please read our [Contribution Guidelines](CONTRIBUTING.md) before making contributions to the project.
+
