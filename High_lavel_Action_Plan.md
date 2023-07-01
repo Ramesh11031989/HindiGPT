@@ -15,9 +15,6 @@ After training, the model can be fine-tuned on a smaller specific dataset, like 
 ## 5. Evaluation and Improvement
 The model's performance is evaluated using metrics like Perplexity, BLEU score, etc. If the performance is not satisfactory, the model is improved by tuning its hyperparameters or increasing the training data, and the process is repeated.
 
-## 6. Alternative Approach: Machine Translation
-If the goal is to translate English GPT model outputs into Hindi, you can use a high-quality Machine Translation system like Google's or Microsoft's Translation API. But if you specifically want a model that understands and generates Hindi text, you would need to follow the steps outlined above.
-
 
 I am working on Two things
 
