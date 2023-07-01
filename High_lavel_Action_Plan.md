@@ -15,7 +15,9 @@ After training, the model can be fine-tuned on a smaller specific dataset, like 
 ## 5. Evaluation and Improvement
 The model's performance is evaluated using metrics like Perplexity, BLEU score, etc. If the performance is not satisfactory, the model is improved by tuning its hyperparameters or increasing the training data, and the process is repeated.
 
-## 6. Scrap the internet for data
+## 6- etc(add more data)
+
+## 7. Scrap the internet for data
 
 
 I am working on Two things
