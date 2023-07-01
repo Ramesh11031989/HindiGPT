@@ -17,3 +17,36 @@ The model's performance is evaluated using metrics like Perplexity, BLEU score, 
 
 ## 6. Alternative Approach: Machine Translation
 If the goal is to translate English GPT model outputs into Hindi, you can use a high-quality Machine Translation system like Google's or Microsoft's Translation API. But if you specifically want a model that understands and generates Hindi text, you would need to follow the steps outlined above.
+
+
+I am working on Two things
+
+# A) Data Gathering
+
+## 1- Hindi books(With english translations if available)
+
+## 2- Hindi Songs(With english translations if available)
+
+## 3- Movies subtile in hindi(With english translations if available)
+
+## 4- Hindi Songs(With english translations if available)
+
+## 5- Hindi Poyms(With english translations if available)
+
+
+# B) User interface, similar to ChatGPT, provides the user with a platform to write prompts. 
+
+## 1. Toggle Switch for Script Choice
+The user interface features a toggle switch, allowing users to choose whether they want to write their Hindi prompts in Devanagari or Roman script.
+
+## 2. Mixed Script Input
+The interface also supports mixed script input (Hinglish), where users can write in a combination of Hindi and English within the same prompt.
+
+## 3. Autocorrect and Understanding in Both Scripts
+HindiGPT, the underlying model, has autocorrect capabilities for both Devanagari and Roman scripts to better understand the user's input.
+
+## 4. Dual Script Responses
+Based on the user's chosen script from the toggle switch or button, HindiGPT can provide responses in either Devanagari or Roman script.
+
+
+
