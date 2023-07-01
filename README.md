@@ -28,4 +28,4 @@ The developers of this project are not responsible for any misuse of this model,
 
 Thank you for your interest and support!
 
-# Please Read aur High lavel Action Plan Document to know our in-detail status.
+# Please Read our High lavel Action Plan Document to know our in-detail status.
